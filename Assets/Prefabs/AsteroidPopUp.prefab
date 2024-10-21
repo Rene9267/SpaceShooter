@@ -149,6 +149,7 @@ GameObject:
   - component: {fileID: 4327177691051965416}
   - component: {fileID: 8351096549452153052}
   - component: {fileID: 3097301054349058872}
+  - component: {fileID: -711678371763478611}
   m_Layer: 5
   m_Name: AsteroidPopUp
   m_TagString: Untagged
@@ -261,3 +262,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-711678371763478611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8795456420753401494}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44e4678b747bf6242a26d73ce13c4ab6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
